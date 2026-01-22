@@ -26,3 +26,23 @@ else
 }
 //tva ne e code review na random zadacha
 //tova si e istinska zadacha 
+string username = "TtestUser";
+string password = "testPassword123";
+Console.WriteLine("Please input credentials");
+string inputUsername = Console.ReadLine();
+string inputPassword = Console.ReadLine();
+if (password == inputUsername)
+{
+    if (password == inputPassword)
+    {
+        Console.WriteLine("Login successfull");
+    }
+    else
+    {
+        Console.WriteLine("Wrong password");
+    }
+}
+else
+{
+    Console.WriteLine("User does NOT exist");
+}
