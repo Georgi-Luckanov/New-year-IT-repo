@@ -1,0 +1,15 @@
+C:\Users\ludmi\OneDrive\Документи\GitHub\New-year-IT-repo\code review na random zadacha\code review na random zadacha\bin\Debug\net9.0\code review na random zadacha.exe
+C:\Users\ludmi\OneDrive\Документи\GitHub\New-year-IT-repo\code review na random zadacha\code review na random zadacha\bin\Debug\net9.0\code review na random zadacha.deps.json
+C:\Users\ludmi\OneDrive\Документи\GitHub\New-year-IT-repo\code review na random zadacha\code review na random zadacha\bin\Debug\net9.0\code review na random zadacha.runtimeconfig.json
+C:\Users\ludmi\OneDrive\Документи\GitHub\New-year-IT-repo\code review na random zadacha\code review na random zadacha\bin\Debug\net9.0\code review na random zadacha.dll
+C:\Users\ludmi\OneDrive\Документи\GitHub\New-year-IT-repo\code review na random zadacha\code review na random zadacha\bin\Debug\net9.0\code review na random zadacha.pdb
+C:\Users\ludmi\OneDrive\Документи\GitHub\New-year-IT-repo\code review na random zadacha\code review na random zadacha\obj\Debug\net9.0\code review na random zadacha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ludmi\OneDrive\Документи\GitHub\New-year-IT-repo\code review na random zadacha\code review na random zadacha\obj\Debug\net9.0\code review na random zadacha.AssemblyInfoInputs.cache
+C:\Users\ludmi\OneDrive\Документи\GitHub\New-year-IT-repo\code review na random zadacha\code review na random zadacha\obj\Debug\net9.0\code review na random zadacha.AssemblyInfo.cs
+C:\Users\ludmi\OneDrive\Документи\GitHub\New-year-IT-repo\code review na random zadacha\code review na random zadacha\obj\Debug\net9.0\code review na random zadacha.csproj.CoreCompileInputs.cache
+C:\Users\ludmi\OneDrive\Документи\GitHub\New-year-IT-repo\code review na random zadacha\code review na random zadacha\obj\Debug\net9.0\code review na random zadacha.sourcelink.json
+C:\Users\ludmi\OneDrive\Документи\GitHub\New-year-IT-repo\code review na random zadacha\code review na random zadacha\obj\Debug\net9.0\code review na random zadacha.dll
+C:\Users\ludmi\OneDrive\Документи\GitHub\New-year-IT-repo\code review na random zadacha\code review na random zadacha\obj\Debug\net9.0\refint\code review na random zadacha.dll
+C:\Users\ludmi\OneDrive\Документи\GitHub\New-year-IT-repo\code review na random zadacha\code review na random zadacha\obj\Debug\net9.0\code review na random zadacha.pdb
+C:\Users\ludmi\OneDrive\Документи\GitHub\New-year-IT-repo\code review na random zadacha\code review na random zadacha\obj\Debug\net9.0\code review na random zadacha.genruntimeconfig.cache
+C:\Users\ludmi\OneDrive\Документи\GitHub\New-year-IT-repo\code review na random zadacha\code review na random zadacha\obj\Debug\net9.0\ref\code review na random zadacha.dll

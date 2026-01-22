@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "code review na random zadacha", "code review na random zadacha\code review na random zadacha.csproj", "{8B20B327-2A5A-46F2-BDF6-27AA3DC20338}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B20B327-2A5A-46F2-BDF6-27AA3DC20338}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B20B327-2A5A-46F2-BDF6-27AA3DC20338}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B20B327-2A5A-46F2-BDF6-27AA3DC20338}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B20B327-2A5A-46F2-BDF6-27AA3DC20338}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BF232FF-78D4-418F-963D-01BE5ACE5EFA}
+	EndGlobalSection
+EndGlobal
