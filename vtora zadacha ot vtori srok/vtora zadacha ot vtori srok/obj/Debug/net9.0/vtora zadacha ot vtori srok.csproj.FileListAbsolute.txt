@@ -1,0 +1,15 @@
+C:\Users\ludmi\OneDrive\Документи\GitHub\New-year-IT-repo\vtora zadacha ot vtori srok\vtora zadacha ot vtori srok\bin\Debug\net9.0\vtora zadacha ot vtori srok.exe
+C:\Users\ludmi\OneDrive\Документи\GitHub\New-year-IT-repo\vtora zadacha ot vtori srok\vtora zadacha ot vtori srok\bin\Debug\net9.0\vtora zadacha ot vtori srok.deps.json
+C:\Users\ludmi\OneDrive\Документи\GitHub\New-year-IT-repo\vtora zadacha ot vtori srok\vtora zadacha ot vtori srok\bin\Debug\net9.0\vtora zadacha ot vtori srok.runtimeconfig.json
+C:\Users\ludmi\OneDrive\Документи\GitHub\New-year-IT-repo\vtora zadacha ot vtori srok\vtora zadacha ot vtori srok\bin\Debug\net9.0\vtora zadacha ot vtori srok.dll
+C:\Users\ludmi\OneDrive\Документи\GitHub\New-year-IT-repo\vtora zadacha ot vtori srok\vtora zadacha ot vtori srok\bin\Debug\net9.0\vtora zadacha ot vtori srok.pdb
+C:\Users\ludmi\OneDrive\Документи\GitHub\New-year-IT-repo\vtora zadacha ot vtori srok\vtora zadacha ot vtori srok\obj\Debug\net9.0\vtora zadacha ot vtori srok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ludmi\OneDrive\Документи\GitHub\New-year-IT-repo\vtora zadacha ot vtori srok\vtora zadacha ot vtori srok\obj\Debug\net9.0\vtora zadacha ot vtori srok.AssemblyInfoInputs.cache
+C:\Users\ludmi\OneDrive\Документи\GitHub\New-year-IT-repo\vtora zadacha ot vtori srok\vtora zadacha ot vtori srok\obj\Debug\net9.0\vtora zadacha ot vtori srok.AssemblyInfo.cs
+C:\Users\ludmi\OneDrive\Документи\GitHub\New-year-IT-repo\vtora zadacha ot vtori srok\vtora zadacha ot vtori srok\obj\Debug\net9.0\vtora zadacha ot vtori srok.csproj.CoreCompileInputs.cache
+C:\Users\ludmi\OneDrive\Документи\GitHub\New-year-IT-repo\vtora zadacha ot vtori srok\vtora zadacha ot vtori srok\obj\Debug\net9.0\vtora zadacha ot vtori srok.sourcelink.json
+C:\Users\ludmi\OneDrive\Документи\GitHub\New-year-IT-repo\vtora zadacha ot vtori srok\vtora zadacha ot vtori srok\obj\Debug\net9.0\vtora zadacha ot vtori srok.dll
+C:\Users\ludmi\OneDrive\Документи\GitHub\New-year-IT-repo\vtora zadacha ot vtori srok\vtora zadacha ot vtori srok\obj\Debug\net9.0\refint\vtora zadacha ot vtori srok.dll
+C:\Users\ludmi\OneDrive\Документи\GitHub\New-year-IT-repo\vtora zadacha ot vtori srok\vtora zadacha ot vtori srok\obj\Debug\net9.0\vtora zadacha ot vtori srok.pdb
+C:\Users\ludmi\OneDrive\Документи\GitHub\New-year-IT-repo\vtora zadacha ot vtori srok\vtora zadacha ot vtori srok\obj\Debug\net9.0\vtora zadacha ot vtori srok.genruntimeconfig.cache
+C:\Users\ludmi\OneDrive\Документи\GitHub\New-year-IT-repo\vtora zadacha ot vtori srok\vtora zadacha ot vtori srok\obj\Debug\net9.0\ref\vtora zadacha ot vtori srok.dll

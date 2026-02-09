@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ludmi\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\New-year-IT-repo\\Purva zadacha ot vtori srok\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E97AA92-105E-4AD1-87F6-97C4E60FFC1E}|Purva zadacha ot vtori srok\\Purva zadacha ot vtori srok.csproj|c:\\users\\ludmi\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\github\\new-year-it-repo\\purva zadacha ot vtori srok\\purva zadacha ot vtori srok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E97AA92-105E-4AD1-87F6-97C4E60FFC1E}|Purva zadacha ot vtori srok\\Purva zadacha ot vtori srok.csproj|solutionrelative:purva zadacha ot vtori srok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ludmi\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\New-year-IT-repo\\Purva zadacha ot vtori srok\\Purva zadacha ot vtori srok\\Program.cs",
+              "RelativeDocumentMoniker": "Purva zadacha ot vtori srok\\Program.cs",
+              "ToolTip": "C:\\Users\\ludmi\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\\GitHub\\New-year-IT-repo\\Purva zadacha ot vtori srok\\Purva zadacha ot vtori srok\\Program.cs",
+              "RelativeToolTip": "Purva zadacha ot vtori srok\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T07:28:35.428Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
