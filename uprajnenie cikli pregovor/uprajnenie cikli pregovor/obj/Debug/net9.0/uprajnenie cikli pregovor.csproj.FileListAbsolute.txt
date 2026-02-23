@@ -1,0 +1,15 @@
+C:\Users\ludmi\OneDrive\Документи\GitHub\New-year-IT-repo\uprajnenie cikli pregovor\uprajnenie cikli pregovor\bin\Debug\net9.0\uprajnenie cikli pregovor.exe
+C:\Users\ludmi\OneDrive\Документи\GitHub\New-year-IT-repo\uprajnenie cikli pregovor\uprajnenie cikli pregovor\bin\Debug\net9.0\uprajnenie cikli pregovor.deps.json
+C:\Users\ludmi\OneDrive\Документи\GitHub\New-year-IT-repo\uprajnenie cikli pregovor\uprajnenie cikli pregovor\bin\Debug\net9.0\uprajnenie cikli pregovor.runtimeconfig.json
+C:\Users\ludmi\OneDrive\Документи\GitHub\New-year-IT-repo\uprajnenie cikli pregovor\uprajnenie cikli pregovor\bin\Debug\net9.0\uprajnenie cikli pregovor.dll
+C:\Users\ludmi\OneDrive\Документи\GitHub\New-year-IT-repo\uprajnenie cikli pregovor\uprajnenie cikli pregovor\bin\Debug\net9.0\uprajnenie cikli pregovor.pdb
+C:\Users\ludmi\OneDrive\Документи\GitHub\New-year-IT-repo\uprajnenie cikli pregovor\uprajnenie cikli pregovor\obj\Debug\net9.0\uprajnenie cikli pregovor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ludmi\OneDrive\Документи\GitHub\New-year-IT-repo\uprajnenie cikli pregovor\uprajnenie cikli pregovor\obj\Debug\net9.0\uprajnenie cikli pregovor.AssemblyInfoInputs.cache
+C:\Users\ludmi\OneDrive\Документи\GitHub\New-year-IT-repo\uprajnenie cikli pregovor\uprajnenie cikli pregovor\obj\Debug\net9.0\uprajnenie cikli pregovor.AssemblyInfo.cs
+C:\Users\ludmi\OneDrive\Документи\GitHub\New-year-IT-repo\uprajnenie cikli pregovor\uprajnenie cikli pregovor\obj\Debug\net9.0\uprajnenie cikli pregovor.csproj.CoreCompileInputs.cache
+C:\Users\ludmi\OneDrive\Документи\GitHub\New-year-IT-repo\uprajnenie cikli pregovor\uprajnenie cikli pregovor\obj\Debug\net9.0\uprajnenie cikli pregovor.sourcelink.json
+C:\Users\ludmi\OneDrive\Документи\GitHub\New-year-IT-repo\uprajnenie cikli pregovor\uprajnenie cikli pregovor\obj\Debug\net9.0\uprajnenie cikli pregovor.dll
+C:\Users\ludmi\OneDrive\Документи\GitHub\New-year-IT-repo\uprajnenie cikli pregovor\uprajnenie cikli pregovor\obj\Debug\net9.0\refint\uprajnenie cikli pregovor.dll
+C:\Users\ludmi\OneDrive\Документи\GitHub\New-year-IT-repo\uprajnenie cikli pregovor\uprajnenie cikli pregovor\obj\Debug\net9.0\uprajnenie cikli pregovor.pdb
+C:\Users\ludmi\OneDrive\Документи\GitHub\New-year-IT-repo\uprajnenie cikli pregovor\uprajnenie cikli pregovor\obj\Debug\net9.0\uprajnenie cikli pregovor.genruntimeconfig.cache
+C:\Users\ludmi\OneDrive\Документи\GitHub\New-year-IT-repo\uprajnenie cikli pregovor\uprajnenie cikli pregovor\obj\Debug\net9.0\ref\uprajnenie cikli pregovor.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uprajnenie cikli pregovor", "uprajnenie cikli pregovor\uprajnenie cikli pregovor.csproj", "{464DE2C5-EE1C-4E82-82D4-000B2D21DD6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{464DE2C5-EE1C-4E82-82D4-000B2D21DD6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{464DE2C5-EE1C-4E82-82D4-000B2D21DD6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{464DE2C5-EE1C-4E82-82D4-000B2D21DD6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{464DE2C5-EE1C-4E82-82D4-000B2D21DD6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8DB923B-9A30-43E7-B0E1-956A3B9946B8}
+	EndGlobalSection
+EndGlobal
